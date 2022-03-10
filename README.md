@@ -1,0 +1,2 @@
+# InventarioADM
+Practica Segundo Parcial
